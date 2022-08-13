@@ -1,0 +1,5 @@
+!target/debug/
+target/debug/*
+!target/debug/omok-cmd.exe
+target/.rustc_info.json
+target/CACHEDIR.TAG
